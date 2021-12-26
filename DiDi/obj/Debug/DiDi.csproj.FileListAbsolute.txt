@@ -1,0 +1,6 @@
+C:\Users\chipu\RiderProjects\ConsoleApplication1\DiDi\bin\Debug\DiDi.exe
+C:\Users\chipu\RiderProjects\ConsoleApplication1\DiDi\bin\Debug\DiDi.pdb
+C:\Users\chipu\RiderProjects\ConsoleApplication1\DiDi\obj\Debug\DiDi.csprojAssemblyReference.cache
+C:\Users\chipu\RiderProjects\ConsoleApplication1\DiDi\obj\Debug\DiDi.csproj.CoreCompileInputs.cache
+C:\Users\chipu\RiderProjects\ConsoleApplication1\DiDi\obj\Debug\DiDi.exe
+C:\Users\chipu\RiderProjects\ConsoleApplication1\DiDi\obj\Debug\DiDi.pdb
