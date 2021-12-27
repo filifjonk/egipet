@@ -12,7 +12,7 @@ namespace ksusha
     {
         public static void Main(string[] args)
         {
-            CustomDictionary<int, int> my_dict = new CustomDictionary<int, int>();
+
         }
     }
 }
